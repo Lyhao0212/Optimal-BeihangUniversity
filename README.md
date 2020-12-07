@@ -1,0 +1,2 @@
+# Optimal-BeihangUniversity
+北航最优化大作业2第一题python代码
